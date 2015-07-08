@@ -5,8 +5,8 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Blog
-tagline:             The Jekyll Butler
+title:               Web
+tagline:             notes
 url:                 http://getpoole.com
 paginate:            1
 baseurl:             ""
